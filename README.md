@@ -12,6 +12,7 @@ Once the game is in a more workable state, I will look into hosting and linking 
 a unity player download.
 
 Changelog:
+  
   v0.01 : 5/12/14 - Initial commit. Rough draft of adjacency and movement implemented: kings can be added
 to the board and can be selected/moved around. No implementation of game rules (win cons, turns, etc.)
 yet. Next step will be defining additional kinds of game pieces.
